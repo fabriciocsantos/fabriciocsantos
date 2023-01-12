@@ -1,6 +1,7 @@
-## Olá! Eu sou o Fabrício Cordeiro Santos 🚀
+<h1> Olá! Eu sou o Fabrício Cordeiro Santos 🚀 </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciocsantos&theme=blue-green)
+
+
 
 ## Tecnologias que eu uso no meu dia:
 
@@ -10,3 +11,9 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
+
+## Contatos:
+
+<div>
+<a href="https://instagram.com/fah_rvs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "fsantos.veredinha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
