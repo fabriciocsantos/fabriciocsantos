@@ -1,6 +1,9 @@
 <h1> Olá! Eu sou o Fabrício Cordeiro Santos 🚀 </h1>
 
-
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciocsantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ## Tecnologias que eu uso no meu dia:
@@ -17,3 +20,5 @@
 <div>
 <a href="https://instagram.com/fah_rvs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@fsantos.veredinha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
