@@ -1,9 +1,6 @@
 <h1> Olá! Eu sou o Fabrício Cordeiro Santos 🚀 </h1>
 
-![](https://github.com/fabriciocsantos/fabriciocsantos/blob/main/giphy.gif)
-
-
-## Tecnologias que eu uso no meu dia:
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -12,9 +9,7 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciocsantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciocsantos&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
 
 ## Contatos:
 
